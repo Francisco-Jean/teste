@@ -1,0 +1,21 @@
+📥👇COMANDOS DE INSTALAÇÃO👇📥
+⛩COMANDOS DE INSTALAÇÃO SIGA PASSO A PASSO POR FAVOR ⛩
+
+
+[ 1 COMANDO ]
+
+termux-setup-storage
+
+
+[ 2 COMANDO ]
+
+cd /sdcard/download/yosuke-bot && sh start.sh
+
+
+[ 3 COMANDO ]
+
+sh install.sh
+
+[ 4 COMANDO ]
+
+sh start.sh
