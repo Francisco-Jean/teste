@@ -97,7 +97,6 @@ return `
 ┃│✾ × ${prefix}Falar PT (Texto)
 ┃│✾ × ${prefix}Metadinha
 ┃│✾ × ${prefix}Emoji (😏/Whatsapp)
-┃│✾ × ${prefix}Emojimix (Emoji+Emoji)
 ┃│✾ × ${prefix}Tabela (Letras/Simbolos) 
 ┃│✾ × ${prefix}Conselhobiblico
 ┃│✾ × ${prefix}Fatos (Curiosidades)
