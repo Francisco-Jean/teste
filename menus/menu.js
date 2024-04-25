@@ -10,7 +10,6 @@ return `
 ┃│✾ × Dono: ${NickDono}
 ┃│✾ × Usuário: ${pushname}
 ┃│✾ × Prefix: ${prefix}
-┃│✾ × Data de hoje: ${moment().format('DD/MM/YYYY')}
 ╰═════════════ ⪨
 
 ╭═════════════ ⪨
